@@ -1,8 +1,8 @@
 ---
 title:  "I scream"
-subtitle: "img/superman.jpg"
+subtitle: "由始至终"
 author: "xiqing"
-avatar: "img/authors/wferr.png"
+avatar: "img/superman.jpg"
 image: "img/e.jpg"
 date:   2019-04-25 12:12:12
 ---
